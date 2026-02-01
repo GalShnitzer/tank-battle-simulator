@@ -356,11 +356,3 @@ tank-battle-simulator/
 
 
 ```
-
-<div align="center">
-
-**⭐ Star this repo if you find it useful! ⭐**
-
-Made with ❤️ and C++
-
-</div>
