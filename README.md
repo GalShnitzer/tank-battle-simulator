@@ -4,7 +4,6 @@
 
 [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
 [![CMake](https://img.shields.io/badge/CMake-3.10+-green.svg)](https://cmake.org/)
-[![License](https://img.shields.io/badge/license-MIT-purple.svg)](LICENSE)
 
 ![Tank Battle Demo](docs/demo.gif)
 *AI tanks battling it out on the grid*
